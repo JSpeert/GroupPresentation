@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\weblog",
+    "\\weblog\\app",
+    "\\weblog\\app\\channels",
+    "\\weblog\\app\\controllers",
+    "\\weblog\\app\\javascript",
+    "\\weblog\\app\\javascript\\channels",
+    "\\weblog\\app\\models",
+    "\\weblog\\app\\views",
+    "\\weblog\\app\\views\\layouts",
+    "\\weblog\\config"
+  ],
+  "SelectedNode": "\\weblog\\app\\channels\\comments_channel.rb",
+  "PreviewInSolutionExplorer": false
+}
